@@ -6,3 +6,4 @@ When player is less distance then "attackDistance" which is 2f, then Enemy will 
 if he cannot reach player or player left from his sight then after 12sec. he will come back to MoveState.
 
 ![EnemySkeleton](https://github.com/user-attachments/assets/4c358a40-34d3-47e9-86e1-4dc95a42334f)
+![Enemy_Skeleton](https://github.com/user-attachments/assets/a592a9ec-4c53-41ab-9491-69ac67eacd0f)
